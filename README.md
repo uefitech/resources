@@ -59,6 +59,8 @@
 |[TCG Platform Reset Attack Mitigation Specification](https://trustedcomputinggroup.org/wp-content/uploads/Platform-Reset-Attack-Mitigation-Specification.pdf)|1.0|
 |[TCG TPM I2C Interface Specification](http://www.trustedcomputinggroup.org/wp-content/uploads/TCG-TPM-I2C-Interface-Specification-v1.00.pdf)|Family 2.0, Level 00, Revision 1.0|
 |[TCG FIPS 140-2 Guidance for TPM 2.0](https://trustedcomputinggroup.org/wp-content/uploads/TCG_FIPS_140_Guidance_for_TPM2_0_v1r1_20170202.pdf)|TPM 2.0 Version 1.0, Revision 1.0|
-
+|[USB Devices Specifications](http://www.usb.org/developers/docs/devclass_docs/)|Device Specific|
+|USB Bus Specifications|[2.x](http://www.usb.org/developers/docs/usb20_docs/)<br>[3.x](http://www.usb.org/developers/ssusb/)|
+|[Open Virtualization Format Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_2.1.1.pdf)|2.1.1|
 
 [**Anyone is welcomed to redistribute, copy, quote, or reference content in this site, <br>if and only if he/she attributed the source of the content.**](#readme)
