@@ -16,5 +16,11 @@
 |[UDF Specification](http://www.osta.org/specs/pdf/udf260.pdf)|2.60|
 |ISO 9660|[1998(en)](https://www.iso.org/obp/ui/#iso:std:iso:9660:ed-1:v1:en)<br>[1988/Amd.1:2013(en)](https://www.iso.org/obp/ui/#iso:std:iso:9660:ed-1:v1:amd:1:v1:en)|
 |[Joliet Filesystem Specification](http://pismotec.com/cfs/jolspec.html)|Extensions for Unicode Version 1|
+|[El Torito Boot Specification](https://pdos.csail.mit.edu/6.828/2014/readings/boot-cdrom.pdf)|1.0|
+|[BBS Specification](http://www.scs.stanford.edu/05au-cs240c/lab/specsbbs101.pdf)|1.01|
+|[BIOS32 Specification](http://bos.asmhackers.net/docs/pci/docs/bios32.pdf)|0.4|
+|[DASH Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0232_1.2.1.pdf)|1.2.1|
+|[BIOS Enhanced Disk Drive Specification](http://t13.org/Documents/UploadedDocuments/project/d1386r0-EDD.pdf)|Version 3.0. Rev 0.9b|
+
 
 [**Anyone is welcomed to redistribute, copy, quote, or reference content in this site, <br>if and only if he/she attributed the source of the content.**](#readme)
