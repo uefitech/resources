@@ -42,7 +42,23 @@
 |[Plug and Play BIOS Specification](https://stuff.mit.edu/afs/sipb/contrib/doc/specs/protocol/pnp/PNPBIOS.rtf)|1.0A|
 |[PXE Specification](http://www.pix.net/software/pxeboot/archive/pxespec.pdf)|2.1|
 |[Smart Battery Data Specification](http://sbs-forum.org/specs/sbdat110.pdf)|1.10|
-
+|[SMASH Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0217_2.1.0.pdf)|2.1.0|
+|[SMBIOS Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.1.1.pdf)|3.1.1|
+|[SMBus Specification](http://smbus.org/specs/SMBus_3_1_20180319.pdf)|3.1|
+|[SMBus BIOS Specification](http://smbus.org/specs/smbb10.pdf)|1.0|
+|[TCG Server Specification](http://www.trustedcomputinggroup.org/wp-content/uploads/TCG_Generic_Server_Specification_v1_0_rev0_8.pdf)|1.0|
+|[TCG Physical Presence Interface Specification](https://trustedcomputinggroup.org/wp-content/uploads/Physical-Presence-Interface_1-30_0-52.pdf)|1.30|
+|[TCG ACPI Specification](https://trustedcomputinggroup.org/wp-content/uploads/TCG_ACPIGeneralSpecification_v1.20_r8.pdf)|1.2|
+|[TCG EFI Protocol Specification](https://trustedcomputinggroup.org/wp-content/uploads/EFI-Protocol-Specification-rev13-160330final.pdf)|Family “2.0”, Level 00, Revision 00.13|
+|[TCG PC Client Specific Platform Firmware Profile Specification](https://trustedcomputinggroup.org/wp-content/uploads/PC-ClientSpecific_Platform_Profile_for_TPM_2p0_Systems_v51.pdf)|Family “2.0”, Level 00 Revision 1.03 Version 51|
+|[TCG PC Client Platform TPM Profile (PTP) Specification](https://trustedcomputinggroup.org/wp-content/uploads/PC-Client-Specific-Platform-TPM-Profile-for-TPM-2-0-v1-03-22-170516_final.pdf)|Family 2.0, Revision 1.3 Version 22|
+|[TCG PC Client Protection Profile for TPM 2.0](https://trustedcomputinggroup.org/wp-content/uploads/TCG_PP_PC_client_specific_TPM_SecV2_v10.pdf)|Family 2.0, Level 0, Version 1.0, Revision 1.16|
+|[TCG D-RTM Architecture Specification](https://trustedcomputinggroup.org/wp-content/uploads/TCG_D-RTM_Architecture_v1-0_Published_06172013.pdf)|1.0|
+|[TCG PC Client Implementation Spec](https://trustedcomputinggroup.org/wp-content/uploads/TCG_PCClientImplementation_1-21_1_00.pdf)|1.21|
+|[TCG PC Client TPM Interface Specification](https://trustedcomputinggroup.org/wp-content/uploads/TCG_PCClientTPMInterfaceSpecification_TIS__1-3_27_03212013.pdf)|1.3|
+|[TCG Platform Reset Attack Mitigation Specification](https://trustedcomputinggroup.org/wp-content/uploads/Platform-Reset-Attack-Mitigation-Specification.pdf)|1.0|
+|[TCG TPM I2C Interface Specification](http://www.trustedcomputinggroup.org/wp-content/uploads/TCG-TPM-I2C-Interface-Specification-v1.00.pdf)|Family 2.0, Level 00, Revision 1.0|
+|[TCG FIPS 140-2 Guidance for TPM 2.0](https://trustedcomputinggroup.org/wp-content/uploads/TCG_FIPS_140_Guidance_for_TPM2_0_v1r1_20170202.pdf)|TPM 2.0 Version 1.0, Revision 1.0|
 
 
 [**Anyone is welcomed to redistribute, copy, quote, or reference content in this site, <br>if and only if he/she attributed the source of the content.**](#readme)
