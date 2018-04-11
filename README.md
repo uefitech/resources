@@ -27,7 +27,15 @@
 |[IPMI Specification](https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/ipmi-second-gen-interface-spec-v2-rev1-1.pdf)|v2.0 rev. 1.1|
 |[JEDEC Specifications](https://www.jedec.org/standards-documents)|Depends on device type|
 |[LPC Specification](https://www.intel.com/content/dam/www/program/design/us/en/documents/low-pin-count-interface-specification.pdf)|1.1|
-|[Microsoft Debug Port Table 2 Specification](http://download.microsoft.com/download/9/4/5/945703CA-EF1F-496F-ADCF-3332CE5594FD/microsoft-debug-port-table-2-CP.docx)|December 10,, 2015|
+|[Microsoft Debug Port Table 2 Specification](http://download.microsoft.com/download/9/4/5/945703CA-EF1F-496F-ADCF-3332CE5594FD/microsoft-debug-port-table-2-CP.docx)|December 10, 2015|
+|[Microsoft OEM Activation Reference](https://www.congatec.com/fileadmin/user_upload/Documents/Application_Notes/AN21_Add_OEM_ACPI_SLIC_Table.pdf)|OA3.0|
+|[Microsoft UEFI firmware requirements](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-uefi)|10/05/2017|
+|[Microsoft PCI IRQ Routing Table Specification](https://wenku.baidu.com/view/6c4ec212a216147917112875.html)|1.0|
+|[Microsoft ACPI system description tables](https://docs.microsoft.com/en-us/windows-hardware/drivers/bringup/acpi-system-description-tables)|04/20/2017|
+|[Microsoft Simple Boot Flag Specification](https://forums.macrumors.com/attachments/sbf21-doc.477720/)|2.1|
+|[Microsoft WHEA ACPI Table Specification](http://msdn.microsoft.com/windows/hardware/gg463511)|1.0|
+|[Multiprocessor Specification](https://pdos.csail.mit.edu/6.828/2011/readings/ia32/MPspec.pdf)|1.4|
+
 
 
 
