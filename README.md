@@ -1,4 +1,5 @@
-# One-Stop Shop for UEFI/BIOS Specifications/Utilities
+
+# One-Stop Shop for UEFI/BIOS Specifications/Utilities 
 
 ## Compilation of UEFI/BIOS related specifications
 
@@ -75,6 +76,10 @@
 |[PCIScope (Trail version)](http://www.tssc.de/site/download/prods/pciscope.exe)|4.00.018|Windows|PCIScope is a powerful tool designed to explore, examine and debug PCI subsystem of your computer. It was made to fit the requirements of the most demanding users, especially engineers, programmers and system administrators, and to integrate all advanced functions and tools into one product.|
 |[DMIScope  (Trail version)](http://www.tssc.de/site/download/prods/dmiscope.exe)|2.00.012|Windows|DMIScope is a powerful tool designed to explore the System Management BIOS (SMBIOS) also known as DMI BIOS.Some implementations of SMBIOS contain vendor specific information. DMIScope gives you the unique possibility to add descriptions of such structures via simple text file.)|
 |[MemDump](http://www.tssc.de/site/download/prods/memdump.zip)|2.00|DOS|The MEMDump utility is designed to dump or copy any part of 4GB linear memory address space under MS-DOS and Windows 9x DOS to a console, text or binary file.You can use MEMDump for dump contents of PCI devices memory located outside of first megabyte, access USB structures, study contents of memory used by memory managers, etc. For proper access to hardware registers, memory can be read with BYTE, WORD or Double WORD granularity. Utility provides transparent access to memory with or without installed memory managers.|
+|[CrScreenshotDxe](https://github.com/LongSoft/CrScreenshotDxe)|4 Jan 2016|UEFI|This DXE driver tries to register keyboard shortcut (LCtrl + LAlt + F12) handler for all text input devices. The handler tries to find a writable FS, enumerates all GOP-capable video devices, takes screenshots from them and saves the result as PNG files on that writable FS.|
+|[UEFITool](https://github.com/LongSoft/UEFITool/releases/download/0.22.4/UEFITool_0.22.4_win.zip)|0.22.4|Windows|UEFITool is a cross-platform C++/Qt program for parsing, extracting and modifying UEFI firmware images.It supports parsing of full BIOS images starting with the flash descriptor or any binary files containing UEFI volumes.(https://github.com/LongSoft/UEFITool)|
+|[UEFIPatch] (https://github.com/LongSoft/UEFITool/releases/download/0.22.4/UEFIPatch_0.3.13_win.zip)|0.3.13|Windows|
+
 
 
 [**Anyone is welcomed to redistribute, copy, quote, or reference content in this site, <br>if and only if he/she attributed the source of the content.**](#readme)
