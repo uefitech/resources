@@ -1,5 +1,6 @@
+![UEFI.Tech Community](https://github.com/uefitech/resources/blob/master/uefi.png)
 
-# One-Stop Shop for UEFI/BIOS Specifications/Utilities 
+# One-Stop Shop for UEFI/BIOS Specifications/Utilities by [UEFI.Tech Community](http://www.uefi.tech)
 
 ## Compilation of UEFI/BIOS related specifications
 
