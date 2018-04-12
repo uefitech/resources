@@ -1,6 +1,5 @@
-![UEFI.Tech Community](https://github.com/uefitech/resources/blob/master/uefi.png)
-
-# One-Stop Shop for UEFI/BIOS Specifications/Utilities by [UEFI.Tech Community](http://www.uefi.tech)
+# One-Stop Shop for UEFI/BIOS Specifications/Tools 
+# by [UEFI.Tech Community](http://www.uefi.tech) ![UEFI.Tech Community](https://github.com/uefitech/resources/blob/master/uefi.png) 
 
 ## Compilation of UEFI/BIOS related specifications
 
@@ -68,7 +67,7 @@
 |USB Bus Specifications|[2.x](http://www.usb.org/developers/docs/usb20_docs/)<br>[3.x](http://www.usb.org/developers/ssusb/)|
 |[Open Virtualization Format Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_2.1.1.pdf)|2.1.1|
 
-## Compilation of UEFI/BIOS related specifications
+## Compilation of UEFI/BIOS related tools
 |Name     |   Latest Version   |OS| Description        |
 |:-----------------|:-------------------:|:-------------------:|:-------------------|
 |[RWEverything](http://rweverything.com/download/)|v1.7|Windows|This utility access almost all the computer hardware, including PCI (PCI Express), PCI Index/Data, Memory, Memory Index/Data, I/O Space, I/O Index/Data, Super I/O, Clock Generator, DIMM SPD, SMBus Device, CPU MSR Registers, ATA/ATAPI Identify Data, Disk Read Write, ACPI Tables Dump (include AML decode), Embedded Controller, USB Information, SMBIOS Structures, PCI Option ROMs, MP Configuration Table, E820, EDID and Remote Access. And also a Command Window is provided to access hardware manually. (www.rweverything.com)|
