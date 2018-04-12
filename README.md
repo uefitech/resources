@@ -28,6 +28,7 @@
 |[IPMI Specification](https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/ipmi-second-gen-interface-spec-v2-rev1-1.pdf)|v2.0 rev. 1.1|
 |[JEDEC Specifications](https://www.jedec.org/standards-documents)|Depends on device type|
 |[LPC Specification](https://www.intel.com/content/dam/www/program/design/us/en/documents/low-pin-count-interface-specification.pdf)|1.1|
+|[Microsoft EFI FAT32 File System Specification](https://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/fatgen103.doc)|1.03|
 |[Microsoft Debug Port Table 2 Specification](http://download.microsoft.com/download/9/4/5/945703CA-EF1F-496F-ADCF-3332CE5594FD/microsoft-debug-port-table-2-CP.docx)|December 10, 2015|
 |[Microsoft OEM Activation Reference](https://www.congatec.com/fileadmin/user_upload/Documents/Application_Notes/AN21_Add_OEM_ACPI_SLIC_Table.pdf)|OA3.0|
 |[Microsoft UEFI firmware requirements](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-uefi)|10/05/2017|
