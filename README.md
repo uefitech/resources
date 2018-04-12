@@ -1,6 +1,6 @@
-## One-Stop Shop for UEFI/BIOS Specifications/Utilities
+# One-Stop Shop for UEFI/BIOS Specifications/Utilities
 
-### Compilation of UEFI/BIOS related specifications
+## Compilation of UEFI/BIOS related specifications
 
 |Name and Link     |   Latest Version   |
 |:-----------------|:-------------------|
@@ -65,5 +65,15 @@
 |[USB Devices Specifications](http://www.usb.org/developers/docs/devclass_docs/)|Device Specific|
 |USB Bus Specifications|[2.x](http://www.usb.org/developers/docs/usb20_docs/)<br>[3.x](http://www.usb.org/developers/ssusb/)|
 |[Open Virtualization Format Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_2.1.1.pdf)|2.1.1|
+
+## Compilation of UEFI/BIOS related specifications
+|Name     |   Latest Version   |OS| Description        |
+|:-----------------|:-------------------|:-------------------:|:-------------------:|
+|[RWEverything](http://rweverything.com/download/)|v1.7|Windows|This utility access almost all the computer hardware, including PCI (PCI Express), PCI Index/Data, Memory, Memory Index/Data, I/O Space, I/O Index/Data, Super I/O, Clock Generator, DIMM SPD, SMBus Device, CPU MSR Registers, ATA/ATAPI Identify Data, Disk Read Write, ACPI Tables Dump (include AML decode), Embedded Controller, USB Information, SMBIOS Structures, PCI Option ROMs, MP Configuration Table, E820, EDID and Remote Access. And also a Command Window is provided to access hardware manually.|
+|[ACPIScope (Trail version)](http://www.tssc.de/site/download/prods/acpiscope.exe)|2.00.012|Windows|ACPIScope is the advanced tool for visualization and debugging of ACPI information from different sources.|
+|[PCIScope (Trail version)](http://www.tssc.de/site/download/prods/pciscope.exe)|4.00.018|Windows|PCIScope is a powerful tool designed to explore, examine and debug PCI subsystem of your computer. It was made to fit the requirements of the most demanding users, especially engineers, programmers and system administrators, and to integrate all advanced functions and tools into one product.|
+|[DMIScope  (Trail version)](http://www.tssc.de/site/download/prods/dmiscope.exe)|2.00.012|Windows|DMIScope is a powerful tool designed to explore the System Management BIOS (SMBIOS) also known as DMI BIOS.Some implementations of SMBIOS contain vendor specific information. DMIScope gives you the unique possibility to add descriptions of such structures via simple text file.)|
+|[MemDump](http://www.tssc.de/site/download/prods/memdump.zip)|2.00|Dos|The MEMDump utility is designed to dump or copy any part of 4GB linear memory address space under MS-DOS and Windows 9x DOS to a console, text or binary file.You can use MEMDump for dump contents of PCI devices memory located outside of first megabyte, access USB structures, study contents of memory used by memory managers, etc. For proper access to hardware registers, memory can be read with BYTE, WORD or Double WORD granularity. Utility provides transparent access to memory with or without installed memory managers.|
+
 
 [**Anyone is welcomed to redistribute, copy, quote, or reference content in this site, <br>if and only if he/she attributed the source of the content.**](#readme)
