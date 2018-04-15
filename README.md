@@ -8,6 +8,7 @@
 |[UEFI Shell Specification](http://www.uefi.org/sites/default/files/resources/UEFI_Shell_2_2.pdf)|2.2|
 |[UEFI Platform Initialization Specification](http://www.uefi.org/sites/default/files/resources/PI_Spec_1_6.pdf)|1.6|
 |[UEFI Platform Initialization Distribution Packaging Specification](http://www.uefi.org/sites/default/files/resources/Dist_Package_Spec_1_1.pdf)|1.1|
+|[EDK2 Specifications](https://github.com/tianocore-docs/Docs)|EDK2|
 |[ACPI Specification](http://www.uefi.org/sites/default/files/resources/ACPI%206_2_A_Sept29.pdf)|6.2 (Errata A)|
 |[ACPI Specification Changes for Legacy Free](http://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/LFreeACPI.doc)|September 20, 1999|
 |[AGP Specification](http://www.playtool.com/pages/agpcompat/agp30.pdf)|3.0|
