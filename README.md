@@ -79,4 +79,7 @@
 |[UEFITool](https://github.com/LongSoft/UEFITool/releases/download/0.22.4/UEFITool_0.22.4_win.zip)|0.22.4|Windows|UEFITool is a cross-platform C++/Qt program for parsing, extracting and modifying UEFI firmware images.It supports parsing of full BIOS images starting with the flash descriptor or any binary files containing UEFI volumes.(https://github.com/LongSoft/UEFITool)|
 |[BinWalk](https://github.com/devttys0/binwalk/archive/v2.1.1.zip)|2.1.1|Linux|Binwalk can scan firmware images, detect signatures of file systems and file types. It can extract components from firmware image, even in form of compression. It can be used to generate entropy graph of firmware image.(www.binwalk.org)|
 
-[**Anyone is welcomed to redistribute, copy, quote, or reference content in this site, <br>if and only if he/she attributed the source of the content.**](#readme)
+## [Link to Compilation of UEFI/BIOS Blogs, Communities, Special Columns](https://github.com/uefitech/resources/blob/master/reference/README.md)
+ 
+ 
+### [**Anyone is welcomed to redistribute, copy, quote, or reference content in this site, if and only if he/she attributed the source of the content.**](#readme)
