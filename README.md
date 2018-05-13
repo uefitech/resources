@@ -82,6 +82,7 @@
 |[Chipsec](https://github.com/chipsec/chipsec)|1.3.6|Windows, Linux, Mac OS X and UEFI shell|CHIPSEC is a framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components. It includes a security test suite, tools for accessing various low level interfaces, and forensic capabilities. It can be run on Windows, Linux, Mac OS X and UEFI shell.|
 |[UEFI Firmware Parser](https://github.com/theopolis/uefi-firmware-parser)|1.6|Python|The UEFI firmware parser is a simple module and set of scripts for parsing, extracting, and recreating UEFI firmware volumes. This includes parsing modules for BIOS, OptionROM, Intel ME and other formats too. Please use the example scripts for parsing tutorials.|
 |[HWiNFO](https://www.hwinfo.com/download.php)|5.82<br>5.55|Windows<br>Dos|In-depth Hardware Information - From a quick overview unfolding into the depth of all hardware components. Always up-to date supporting latest technologies and standards.<br>Real-Time System Monitoring - Accurate monitoring of all system components for actual status and failure prediction. Customizable interface with variety of options.<br>Extensive Reporting - Multiple types of reports, status logging and interfacing with other tools or add-ons.|
+|[VisualUefi](https://github.com/ionescu007/VisualUefi)|Apr 4|Windows|A project for allowing EDK-II Development with Visual Studio|
 
 ## [Link to Compilation of UEFI/BIOS Blogs, Communities, Special Columns](https://github.com/uefitech/resources/blob/master/reference/README.md)
  
