@@ -65,6 +65,7 @@
 |[TCG FIPS 140-2 Guidance for TPM 2.0](https://trustedcomputinggroup.org/wp-content/uploads/TCG_FIPS_140_Guidance_for_TPM2_0_v1r1_20170202.pdf)|TPM 2.0 Version 1.0, Revision 1.0|
 |[USB Devices Specifications](http://www.usb.org/developers/docs/devclass_docs/)|Device Specific|
 |USB Bus Specifications|[2.x](http://www.usb.org/developers/docs/usb20_docs/)<br>[3.x](http://www.usb.org/developers/ssusb/)|
+|[XHCI Specification](https://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/extensible-host-controler-interface-usb-xhci.pdf)|1.1|
 |[Open Virtualization Format Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_2.1.1.pdf)|2.1.1|
 
 ## Compilation of UEFI/BIOS Related Tools
