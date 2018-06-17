@@ -47,7 +47,7 @@
 |[PXE Specification](http://www.pix.net/software/pxeboot/archive/pxespec.pdf)|2.1|
 |[Smart Battery Data Specification](http://sbs-forum.org/specs/sbdat110.pdf)|1.10|
 |[SMASH Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0217_2.1.0.pdf)|2.1.0|
-|[SMBIOS Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.1.1.pdf)|3.1.1|
+|[SMBIOS Specification](https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.2.0.pdf)|3.2.0|
 |[SMBus Specification](http://smbus.org/specs/SMBus_3_1_20180319.pdf)|3.1|
 |[SMBus BIOS Specification](http://smbus.org/specs/smbb10.pdf)|1.0|
 |[TCG Server Specification](http://www.trustedcomputinggroup.org/wp-content/uploads/TCG_Generic_Server_Specification_v1_0_rev0_8.pdf)|1.0|
