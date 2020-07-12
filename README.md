@@ -39,7 +39,7 @@
 |USB Bus Specifications|[2.x](http://www.usb.org/developers/docs/usb20_docs/)<br>[3.x](http://www.usb.org/developers/ssusb/)<br>[4.x](https://usb.org/sites/default/files/USB4%20Specification_5.zip)|
 |UHCI||
 |OHCI||
-|[XHCI Specification](https://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/extensible-host-controler-interface-usb-xhci.pdf)|1.1|
+|[XHCI Specification](https://www.intel.com/content/dam/www/public/us/en/documents/technical-specifications/extensible-host-controler-interface-usb-xhci.pdf)|1.2|
 |WiFi Specification|[click](https://www.wi-fi.org/discover-wi-fi/specifications)|
 |**<font color=#FF0000>Industry Standard Specification</font>**|----------------------------------|
 |[UEFI Specification](https://uefi.org/sites/default/files/resources/UEFI%20Spec%202.8B%20May%202020.pdf)|2.8 (Errata B)|
